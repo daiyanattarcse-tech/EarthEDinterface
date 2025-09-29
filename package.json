@@ -1,14 +1,14 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "EarthEDinterface",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "homepage": "https://daiyanattarcse-tech.github.io/EarthEDinterface",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
+    "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
